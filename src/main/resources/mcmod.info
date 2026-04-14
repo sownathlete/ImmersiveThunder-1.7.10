@@ -1,0 +1,16 @@
+[
+{
+  "modid": "immersivethunder",
+  "name": "Immersive Thunder",
+  "description": "Replaces vanilla thunder with immersive distance-based thunder variants.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-thunder",
+  "updateUrl": "",
+  "authorList": ["Sown", "netcatgirl"],
+  "credits": "Original mod by netcatgirl",
+  "logoFile": "assets/immersivethunder/icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

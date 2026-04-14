@@ -1,0 +1,47 @@
+{
+  "thunder_close": {
+    "category": "weather",
+    "sounds": [
+      {
+        "name": "thunder_close_1"
+      },
+      {
+        "name": "thunder_close_2"
+      },
+      {
+        "name": "thunder_close_3"
+      }
+    ]
+  },
+  "thunder_medium": {
+    "category": "weather",
+    "sounds": [
+      {
+        "name": "thunder_medium_1"
+      },
+      {
+        "name": "thunder_medium_2"
+      },
+      {
+        "name": "thunder_medium_3"
+      },
+      {
+        "name": "thunder_medium_4"
+      }
+    ]
+  },
+  "thunder_far": {
+    "category": "weather",
+    "sounds": [
+      {
+        "name": "thunder_far_1"
+      },
+      {
+        "name": "thunder_far_2"
+      },
+      {
+        "name": "thunder_far_3"
+      }
+    ]
+  }
+}
